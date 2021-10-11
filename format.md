@@ -1,5 +1,5 @@
-# [Your Name]
+# Niyati Srivastava
 
-## [Your Year and Stream]
+## 2nd year, Mechanical
 
-## [Add the languages/frameworks you work on comma separated]
+## Python
